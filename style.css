@@ -102,7 +102,7 @@
   flex-shrink: 0;
   position: relative;
 }
-.home {
+.home:hover {
   color: var(--black-black-500, #000000);
   text-align: center;
   font-family: "Inter-Regular", sans-serif;
